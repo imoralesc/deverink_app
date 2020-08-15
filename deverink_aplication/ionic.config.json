@@ -1,0 +1,7 @@
+{
+  "name": "deverink_aplication",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
